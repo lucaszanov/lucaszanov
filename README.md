@@ -20,6 +20,8 @@
 
 📈 Numerical Calculation
 
+🔨 Modal Analysis
+
 🍃 LaTeX/Overleaf
 
 # My Projects
