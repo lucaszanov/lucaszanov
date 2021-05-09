@@ -30,6 +30,8 @@
 
 ➡ [Classificacao de Rocha ou Metal via Sonar / Classification Rock or Metal via Sonar](https://github.com/lucaszanov/Classificacao-de-Rocha-ou-Metal-via-Sonar-Classification--Rock-or-Metal--via-Sonar)
 
+➡ [Structural Health Monitoring](https://github.com/lucaszanov/Structural-Health-Monitoring)
+
 ➡ [Duffing - Harmonic Balance Method](https://github.com/lucaszanov/Duffing-Harmonic-Balance-Method)
 
 ➡ [Rossler System](https://github.com/lucaszanov/Rossler-system)
