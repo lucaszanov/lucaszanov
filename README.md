@@ -50,4 +50,4 @@
 
 ➡ [Linkedin](https://www.linkedin.com/in/lucas-zanovello-tahara-628a31102/)
 
-
+➡ [Lattes](http://lattes.cnpq.br/2694652066032197)
