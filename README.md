@@ -18,6 +18,8 @@
 
 📊 Data Visualization
 
+✍ Power BI
+
 📈 Numerical Calculation
 
 🔨 Modal Analysis
@@ -39,13 +41,13 @@
 
 # I’m currently learning 🌱
 
+📄 SQL
+
 🎲 Data Analytics
 
 ⚡ Energy Harvesting
 
 ✈ Structural Health Monitoring
-
-✍ Power BI
 
 
 # How to reach me 📫 
