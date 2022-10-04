@@ -26,6 +26,12 @@
 
 🍃 LaTeX/Overleaf
 
+📄 SQL
+
+🧑‍💻 AppSheet
+
+🎲 Data Analytics
+
 # My Projects
 
 ➡ [Preços de Combustíveis no Brasil / Gas Prices in Brazil](https://github.com/lucaszanov/Precos-de-Combustiveis-no-Brasil-Gas-Prices-in-Brazil)
@@ -41,9 +47,7 @@
 
 # I’m currently learning 🌱
 
-📄 SQL
-
-🎲 Data Analytics
+☕ JavaScript
 
 ⚡ Energy Harvesting
 
