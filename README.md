@@ -9,6 +9,7 @@
 
 🤖 PhD candidate in Mechanical Engineering (Dynamics and Mechatronics) - USP (São Carlos)
 
+💻 App Developer/Systems Analyst
 
 ## Skills 👨‍💻
 
