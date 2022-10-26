@@ -35,7 +35,7 @@
 
 # My Projects
 
-➡ [Extrator de Processos em Cadernos | TST]((https://github.com/lucaszanov/ExtratorCadernosProcessosTST)
+➡ [Extrator de Processos em Cadernos | TST](https://github.com/lucaszanov/ExtratorCadernosProcessosTST)
 
 ➡ [Preços de Combustíveis no Brasil / Gas Prices in Brazil](https://github.com/lucaszanov/Precos-de-Combustiveis-no-Brasil-Gas-Prices-in-Brazil)
 
