@@ -35,6 +35,8 @@
 
 # My Projects
 
+➡ [NY Times News Scraper](https://github.com/lucaszanov/rpa-project-nytimes)
+
 ➡ [Extrator de Processos em Cadernos | TST](https://github.com/lucaszanov/ExtratorCadernosProcessosTST)
 
 ➡ [Preços de Combustíveis no Brasil / Gas Prices in Brazil](https://github.com/lucaszanov/Precos-de-Combustiveis-no-Brasil-Gas-Prices-in-Brazil)
