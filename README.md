@@ -35,6 +35,8 @@
 
 # My Projects
 
+➡ [Dashboard COVID-19 Brasil](https://github.com/lucaszanov/dashboard-covid-19)
+
 ➡ [NY Times News Scraper](https://github.com/lucaszanov/rpa-project-nytimes)
 
 ➡ [Extrator de Processos em Cadernos | TST](https://github.com/lucaszanov/ExtratorCadernosProcessosTST)
