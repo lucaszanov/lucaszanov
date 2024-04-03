@@ -9,7 +9,7 @@
 
 🤖 PhD candidate in Mechanical Engineering (Dynamics and Mechatronics) - USP (São Carlos)
 
-💻 Python Developer/App Developer/Systems Analyst
+💻 Business Intelligence Analyst/Python Developer/App Developer/Systems Analyst
 
 ## Skills 👨‍💻
 
