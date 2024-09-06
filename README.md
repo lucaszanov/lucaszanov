@@ -15,11 +15,13 @@
 
 🐍 Python
 
-📝 Matlab/Octave
+🎲 Data Analytics
 
 📊 Data Visualization
 
-✍ Power BI
+✍ Power BI | Looker Studio
+
+📝 Matlab/Octave
 
 📈 Numerical Calculation
 
@@ -31,7 +33,7 @@
 
 🧑‍💻 AppSheet
 
-🎲 Data Analytics
+
 
 # My Projects
 
